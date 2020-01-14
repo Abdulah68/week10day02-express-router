@@ -1,6 +1,5 @@
-# Express Router
 
-## Request and Response
+## Express Request and Response
 
 ### The 'req' Argument
 
