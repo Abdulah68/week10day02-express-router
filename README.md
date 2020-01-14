@@ -253,8 +253,8 @@ else if
 ```
 
 ---
-
-# Express - The Router
+<details>
+    <summary>Additional Read to understand The Router in Express (Refactoring logic in routes</summary>
 
 ## Lesson Objectives
 1. Get rid of Code Smells by utilizing the DRY principle and other best practices
@@ -455,3 +455,5 @@ router.get('/:id/edit', function(req, res){
 Routes on routes on routes! Time to get more reps in building an Express app, adding Handlebars, and using Express Router to keep your code separated.
 
 [Express Router Lab](https://git.generalassemb.ly/atl-wdi/wdi-curriculum/blob/master/labs/express/express-router-lab.md)
+
+</details>
