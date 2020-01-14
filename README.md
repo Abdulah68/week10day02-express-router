@@ -454,9 +454,8 @@ router.get('/:id/edit', function(req, res){
 
 Routes on routes on routes! Time to get more reps in building an Express app, adding Handlebars, and using Express Router to keep your code separated.
 
-<detail>
+<details>
 <summary>[Express Router Lab]</summary>
-  # LAB
 
 ### Pick the driver and navigator
 
@@ -509,7 +508,7 @@ you think makes sense.*
 13. A route that renders the date a specific number of days before or after
 todays date. (What's the date 5 days from now, 4 days ago)
 *hint: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date*
-</detail>
+</details>
 
 
 
