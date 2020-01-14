@@ -1,6 +1,10 @@
 
 ## Express Routing: Request and Response
 
+### Learning Objectives:
+- Understand request/response
+- Understand dynamic segments
+
 ### The 'req' Argument
 
 The [req](https://expressjs.com/en/api.html#req) argument is an object that contains information about the incoming HTTP **request**:
