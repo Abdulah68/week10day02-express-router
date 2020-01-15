@@ -4,6 +4,8 @@
 ### Learning Objectives:
 - Understand request/response
 - Understand dynamic segments
+- Understanding MVC in Express
+- Understanding App Design pattern
 
 ### The 'req' Argument
 
